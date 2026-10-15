@@ -241,4 +241,4 @@ This repository serves as the official landing page for Mercury/32. The software
 **Get the most recent version of Mercury/32 today!**
 
 ---
-**Last updated:** 2026-10-15 19:36:55 UTC
+**Last updated:** 2026-10-15 22:49:35 UTC
